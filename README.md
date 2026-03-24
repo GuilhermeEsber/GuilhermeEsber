@@ -15,7 +15,7 @@
 
 ## Sobre mim 👦
 
-Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com interesse nas áreas de robótica, programação embarcada, programação orientada a objetos e eletrônica. Participei do projeto Dev U, onde desenvolvi habilidades em C# e Unity, aplicando conceitos de programação orientada a objetos e desenvolvimento de jogos. Atualmente, estou em processo de aprendizado e aprimoramento nas linguagens C, C++, C#, Java e Python.
+Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com interesse nas áreas de robótica, programação embarcada, programação orientada a objetos e eletrônica. Atualmente, estou em processo de aprendizado e aprimoramento nas linguagens C, C++, C#, Java e Python.
 
 ---
 
