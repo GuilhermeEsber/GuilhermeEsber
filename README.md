@@ -2,8 +2,11 @@
   
   ![Header Image](https://github.com/GuilhermeEsber/GuilhermeEsber/blob/main/header-image.png)
   <br>
-  [![GitHub followers](https://img.shields.io/github/followers/GuilhermeEsber?style=social)](https://github.com/GuilhermeEsber)
+  [![Follow](https://img.shields.io/badge/Follow-GuilhermeEsber-blue?style=for-the-badge&logo=github)](https://github.com/GuilhermeEsber)
   <br>
+  <!---
+  [![GitHub followers](https://img.shields.io/github/followers/GuilhermeEsber?style=social)](https://github.com/GuilhermeEsber)  
+  --->
   [![](https://hits.sh/github.com/GuilhermeEsber.svg?label=:&color=2b9348&style=flat-square)](https://hits.sh/github.com/GuilhermeEsber/)
   <br>
   <b>Visitantes</b>
