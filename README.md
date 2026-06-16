@@ -79,18 +79,18 @@ Sou estudante de Bacharelado em Engenharia de Computação pela Universidade Fed
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
-  <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-cobrinha/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-cobrinha/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-cobrinha/github-contribution-grid-snake.svg">
+  <img alt="Gráfico de Contribuição - Cobrinha" src="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-cobrinha/github-contribution-grid-snake.svg">
 </picture>
 -->
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph.svg">
-  <img alt="Gráfico de Contribuição - Pacman" src="https://raw.githubusercontent.com/MelzitoZz/MelzitoZz/output-pacman/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-pacman/pacman-contribution-graph.svg">
+  <img alt="Gráfico de Contribuição - Pacman" src="https://raw.githubusercontent.com/GuilhermeEsber/GuilhermeEsber/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
 ---
